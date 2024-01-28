@@ -1,0 +1,1 @@
+package org.example.Ex3;public interface Driver {    void startEngine();    void drive();    void washesCar();}

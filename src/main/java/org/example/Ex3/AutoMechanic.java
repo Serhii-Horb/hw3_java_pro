@@ -1,0 +1,1 @@
+package org.example.Ex3;public interface AutoMechanic {    void inspectTransmission();    void inspectMotor();    void inspectTires();}
